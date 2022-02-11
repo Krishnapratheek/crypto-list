@@ -1,0 +1,258 @@
+{
+  "coins": [
+    {
+      "id": 1514321,
+      "name": "Bitcoin",
+      "icon": "https://www.svgrepo.com/show/41177/bitcoin.svg",
+      "ticker": "BTC",
+      "price": 38453.163673255985,
+      "priceChange": "11.8500482",
+      "mentions": 246057,
+      "mentionsChange": 30,
+      "positiveSentimentPrec": 52
+    },
+    {
+      "id": 1514319,
+      "name": "DogeCoin",
+      "icon": "https://www.svgrepo.com/show/41177/bitcoin.svg",
+      "ticker": "DOGE",
+      "price": 0.22267393458574,
+      "priceChange": "13.56161391",
+      "mentions": 156767,
+      "mentionsChange": 16,
+      "positiveSentimentPrec": 85
+    },
+    {
+      "id": 1514322,
+      "name": "Ethereum",
+      "icon": "https://www.svgrepo.com/show/41177/bitcoin.svg",
+      "ticker": "ETH",
+      "price": 2341.284295626832,
+      "priceChange": "8.35079894",
+      "mentions": 106053,
+      "mentionsChange": 12,
+      "positiveSentimentPrec": 75
+    },
+    {
+      "id": 2405819,
+      "name": "SHIBA INU",
+      "icon": "https://www.svgrepo.com/show/41177/bitcoin.svg",
+      "ticker": "SHIB",
+      "price": 0.00000667350007,
+      "priceChange": "4.74560454",
+      "mentions": 61617,
+      "mentionsChange": 7,
+      "positiveSentimentPrec": 92
+    },
+    {
+      "id": 2405817,
+      "name": "SafeMoon",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "SAFEMOON",
+      "price": 0.00000290145298,
+      "priceChange": "6.51919969",
+      "mentions": 59489,
+      "mentionsChange": 53,
+      "positiveSentimentPrec": 81
+    },
+    {
+      "id": 1514330,
+      "name": "Pancake Swap",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "CAKE",
+      "price": 14.78994697476896,
+      "priceChange": "6.95754959",
+      "mentions": 45334,
+      "mentionsChange": 11,
+      "positiveSentimentPrec": 95
+    },
+    {
+      "id": 1514348,
+      "name": "Solana",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "SOL",
+      "price": 29.91503165601294,
+      "priceChange": "6.52145208",
+      "mentions": 30306,
+      "mentionsChange": 126,
+      "positiveSentimentPrec": 97
+    },
+    {
+      "id": 1514337,
+      "name": "Ripple",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "XRP",
+      "price": 0.65904741503121,
+      "priceChange": "9.47566044",
+      "mentions": 17815,
+      "mentionsChange": -10,
+      "positiveSentimentPrec": 66
+    },
+    {
+      "id": 1514341,
+      "name": "Cardano",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "ADA",
+      "price": 1.34580756055048,
+      "priceChange": "10.20574868",
+      "mentions": 17057,
+      "mentionsChange": -10,
+      "positiveSentimentPrec": 60
+    },
+    {
+      "id": 1514331,
+      "name": "Uniswap",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "UNI",
+      "price": 19.74544502717908,
+      "priceChange": "9.90971665",
+      "mentions": 15032,
+      "mentionsChange": 60,
+      "positiveSentimentPrec": 90
+    },
+    {
+      "id": 1514462,
+      "name": "Polygon",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "MATIC",
+      "price": 1.08407765401962,
+      "priceChange": "15.6006549",
+      "mentions": 14831,
+      "mentionsChange": -15,
+      "positiveSentimentPrec": 83
+    },
+    {
+      "id": 1515427,
+      "name": "Axie Infinity",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "AXS",
+      "price": 40.02804698178554,
+      "priceChange": "-1.73850631",
+      "mentions": 13204,
+      "mentionsChange": 8,
+      "positiveSentimentPrec": 83
+    },
+    {
+      "id": 1514324,
+      "name": "Tron",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "TRX",
+      "price": 0.06170491136175,
+      "priceChange": "8.08936657",
+      "mentions": 12292,
+      "mentionsChange": 26,
+      "positiveSentimentPrec": 73
+    },
+    {
+      "id": 1514793,
+      "name": "AMP",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "AMP",
+      "price": 0.07393217951308,
+      "priceChange": "48.49738113",
+      "mentions": 7920,
+      "mentionsChange": 93,
+      "positiveSentimentPrec": 75
+    },
+    {
+      "id": 1516106,
+      "name": "AdEx Network",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "ADX",
+      "price": 0.47463104467488,
+      "priceChange": "-10.07561267",
+      "mentions": 7448,
+      "mentionsChange": 1084,
+      "positiveSentimentPrec": 100
+    },
+    {
+      "id": 1515154,
+      "name": "1Inch",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "1INCH",
+      "price": 2.26947068349249,
+      "priceChange": "10.96958806",
+      "mentions": 7349,
+      "mentionsChange": 359,
+      "positiveSentimentPrec": 93
+    },
+    {
+      "id": 1514420,
+      "name": "Chainlink",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "LINK",
+      "price": 19.15198902319199,
+      "priceChange": "13.88331265",
+      "mentions": 6213,
+      "mentionsChange": -14,
+      "positiveSentimentPrec": 81
+    },
+    {
+      "id": 2410347,
+      "name": "PooCoin",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "POOCOIN",
+      "price": 2.31473914227524,
+      "priceChange": "3.93268568",
+      "mentions": 6027,
+      "mentionsChange": 137,
+      "positiveSentimentPrec": 94
+    },
+    {
+      "id": 1515176,
+      "name": "ERC20",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "ERC20",
+      "price": 0.01733456747246,
+      "priceChange": "5.62059001",
+      "mentions": 5930,
+      "mentionsChange": 96,
+      "positiveSentimentPrec": 87
+    },
+    {
+      "id": 1514499,
+      "name": "Zilliqa",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "ZIL",
+      "price": 0.08076477349893,
+      "priceChange": "19.34028993",
+      "mentions": 4967,
+      "mentionsChange": 231,
+      "positiveSentimentPrec": 87
+    },
+    {
+      "id": 2405820,
+      "name": "FEGtoken",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "FEG",
+      "price": 4.29082e-9,
+      "priceChange": "17.94845562",
+      "mentions": 4610,
+      "mentionsChange": -36,
+      "positiveSentimentPrec": 80
+    },
+    {
+      "id": 1515129,
+      "name": "Quant",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "QNT",
+      "price": 94.16129800575544,
+      "priceChange": "10.18856422",
+      "mentions": 3872,
+      "mentionsChange": 172,
+      "positiveSentimentPrec": 65
+    },
+    {
+      "name": "TestCoin",
+      "icon": "https://static.thenounproject.com/png/3262833-200.png",
+      "ticker": "test",
+      "price": "54",
+      "priceChange": "51",
+      "mentions": "55",
+      "mentionsChange": "515",
+      "positiveSentimentPrec": "6",
+      "id": 2410348
+    }
+    
+  ]
+}
